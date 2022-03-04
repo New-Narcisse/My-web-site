@@ -32,6 +32,7 @@ ul {
     gap: 16px;
     justify-content: end;
     margin-right: 40px;
+    font-size: 15px;
 }
 
 a {
@@ -43,7 +44,8 @@ a {
     flex: 1;
     color: white;
     justify-content: flex-start;
-    margin-left: 5px;
+    margin-left: 23px;
+    font-size: 14px;
 }
 
 .box1-2 {
@@ -51,7 +53,7 @@ a {
     justify-content: space-around;
     background-color: #1F2937 ;
     color: white;
-    height: 240px;
+    height: 320px;
     padding: 40px;
     gap: 40px;
 }
@@ -80,7 +82,7 @@ a {
 
 .box4 {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     gap: 50px;
     margin: 25px;
     height: 93px;
@@ -93,7 +95,7 @@ a {
     color: aqua;
     text-align: center;
     width: 50px;
-    height: 107px;
+    height: 147px;
     border: 0.5px solid black;
     border-radius: 10px;
     box-shadow: -3px -3px 7px #ffffffb2, 3px 3px 5px rgba(94, 104, 121, 0.945);
@@ -107,6 +109,7 @@ a {
     gap: 50px;
     margin: 25px;
     justify-items: center;
+    margin-top: 66px;
 }
 
 .box5 div {
