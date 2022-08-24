@@ -1,0 +1,36 @@
+Hello world!!!!!!
+I am trainig mi git skilLS
+
+STEPS:
+
+1. CRREATE A REPO ON GITHUB PAGE
+2. CRREATEA DIR IN MY LOCAL MACHINE
+3. COPPY THE SSH CODE FROM THE NEW REPO ON GITHUB
+4. IN MY MACHINE TERMINAL, CD TO THE JUST CREATED DIR AND TYPE: git clon + SSH CODE
+-------You have successfully connected the repository you created on GitHub to your local machine.---------
+5. TYPE GIT STATUS ON MY TERMINAL SO I WIL BE ABLE TO SEE ALL THE FILES AND DIR MODIFIED
+6. TYPE git add + THE NAME OF THE FILE OR DIR THEN THEY WIL BE STAGED
+7. TYPE git commit -m "Add + (name of the file or dir)". MEAN THAT THE DATA IS SAFELY STORED ON MAY LOCAL DATABASE
+8. TYPE git push TO UPLOAD THE CHANGES TO MY GITHUB ACOUNT
+DONE
+v
+v
+v
+v    note: i need to save changes on VScode to be able to comit them!!!!!!
+v
+v
+v
+v
+v
+v
+v
+v
+v
+v
+v
+v
+v
+v
+v
+:
+.

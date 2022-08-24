@@ -1,0 +1,4 @@
+1 - Create feature branch from master: git branch new-branch-name
+2 - To switch to a particular branch: git checkout branch-name
+3 - Which branch am I on? git branch -a
+4 - To delete a branch: Checkout any branch except the one you want to delete; git branch -D branch-name
