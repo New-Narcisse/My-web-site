@@ -2,3 +2,11 @@
 2 - To switch to a particular branch: git checkout branch-name
 3 - Which branch am I on? git branch -a
 4 - To delete a branch: Checkout any branch except the one you want to delete; git branch -D branch-name
+5 - How to create new branch and check it out at the same time: 
+     - git checkout -b new-branch-name
+6 - Merge branch into master:
+         1) git checkout master; 
+         2) git merge branch name
+7- -------------Resolving merge conflicts:-------------------------------
+    - "Automatic merge failed"
+    - Fix merge conflicts (in the applicable files) then git add .; git commit
